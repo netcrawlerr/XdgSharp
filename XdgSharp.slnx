@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/XdgSharp.Cli/XdgSharp.Cli.csproj" />
+    <Project Path="src/XdgSharp.Portals/XdgSharp.Portals.csproj" />
+  </Folder>
+</Solution>
